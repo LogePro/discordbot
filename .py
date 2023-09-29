@@ -25,5 +25,7 @@ async def on_message(message):
 @bot.command(name='play')
 async def play_tic_tac_toe(ctx):
     pass
+    
+TOKEN = 
 
-bot.run('Token')  
+bot.run('TOKEN')  
