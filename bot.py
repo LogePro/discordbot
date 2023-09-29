@@ -26,4 +26,4 @@ async def on_message(message):
 async def play_tic_tac_toe(ctx):
     pass
     
-bot.run('MTE1NzM3MjcxMTA2MDkxMDEzMw.GIIoAE.Miquux1gEoRmh0VqfiI16_ZpRRf144g9NxRy4M')  
+bot.run('TOKEN')  
